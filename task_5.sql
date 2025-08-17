@@ -8,7 +8,7 @@ USE alx_book_store;
 --   customer_id, customer_name, email, address
 -- Then we provide the corresponding values for each column
 INSERT INTO customer (customer_id, customer_name, email, address)
-VALUES (1, 'Cole Baidoo', 'cbaidoo@sandtech.com', '123 Happiness Ave');
+VALUES (1, 'Cole Baidoo', 'cbaidoo@sandtech.com', '123 Happiness Ave.');
 
 -- After running this script, a new row will be created in the 'customer' table
 -- with the details of the customer 'Cole Baidoo'
