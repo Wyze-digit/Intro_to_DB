@@ -1,0 +1,1 @@
+# Write a script that creates all the tables below in alx_book_store in your MySQL server.
