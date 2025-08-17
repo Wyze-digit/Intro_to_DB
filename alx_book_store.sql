@@ -1,7 +1,8 @@
 -- alx_book_store.sql
 
 -- 1. CREATE DATABASE
-CREATE DATABASE alx_book_store;
+CREATE DATABASE IF NOT EXISTS alx_book_store;
+
 
 -- 2. SELECT THE DATABASE
 USE alx_book_store;
